@@ -1,5 +1,5 @@
 # UX220-Lab-1
-## Edit this, according to the instructions in the lab, using markdown.
+## My Favourite Piece of Writing
 
 Hello, my name is Kris. My favourite piece of writing I have created would be a poem about what it is like to find the perfect person for you. I chose these one as I felt I was able to display a type of emotion and appreciation that is otherwise far too difficult to show.
 
